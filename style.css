@@ -1,0 +1,45 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px rgb(9, 131, 74);
+    font-size: 22px;
+  }
+  .heading_div
+  {
+    background: rgb(95, 149, 45) ; 
+    border-radius: 20px; 
+    color: rgb(173, 174, 231);
+    box-shadow:5px 5px 5px rgb(202, 15, 15);
+    padding:10px;
+    float: none;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px rgb(231, 62, 62);
+    font-size: 20px;
+  }
+  .result_para_tag span{
+    white-space: pre-line;
+  }
+
+.copy_right_footer{
+  position: fixed;
+  background-color: fuchsia;
+  color: khaki;
+  bottom: 0;
+  width: 100%;
+  line-height: 3;
+  text-align: center;
+}
+
+canvas{
+  border:orangered 5px solid;
+  margin-top: 150px;
+  border-radius: 40px;
+  box-shadow: coral 5px 5px 5px ;
+}
